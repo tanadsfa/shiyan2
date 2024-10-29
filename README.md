@@ -1,0 +1,9 @@
+android开发实验二：
+linnear_layout.xml:
+![image]()
+table_layout.xml：
+![image]()
+constrain_layout1.xml：
+![image]()
+constrain_layout2.xml：
+![image]()
