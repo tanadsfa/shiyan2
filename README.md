@@ -1,10 +1,18 @@
 android开发实验二：
 
-linnear_layout.xml:![image](https://github.com/tanadsfa/shiyan2/blob/main/image/1.png)
+linnear_layout.xml:
 
-table_layout.xml：![image](https://github.com/tanadsfa/shiyan2/blob/main/image/2.png)
+![image](https://github.com/tanadsfa/shiyan2/blob/main/image/1.png)
 
-constrain_layout1.xml：![image](https://github.com/tanadsfa/shiyan2/blob/main/image/3.png)
+table_layout.xml：
 
-constrain_layout2.xml：![image](https://github.com/tanadsfa/shiyan2/blob/main/image/4.png)
+![image](https://github.com/tanadsfa/shiyan2/blob/main/image/2.png)
+
+constrain_layout1.xml：
+
+![image](https://github.com/tanadsfa/shiyan2/blob/main/image/3.png)
+
+constrain_layout2.xml：
+
+![image](https://github.com/tanadsfa/shiyan2/blob/main/image/4.png)
 
